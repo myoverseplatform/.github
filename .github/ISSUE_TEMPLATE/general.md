@@ -1,7 +1,7 @@
 ---
 name: General Issue
 about: Features, bugs, hardware, firmware, research, strategy, or any team task
-title: "[TYPE] Short, specific summary"
+title:
 labels: ["triage"]
 assignees: []
 ---
@@ -16,7 +16,7 @@ assignees: []
 - [ ] Research / experiment
 - [ ] Business / strategy / ops
 - [ ] Documentation
-- [ ] Other: 
+- [ ] Other:
 
 ## Context
 <!-- Background someone new would need. What's the current state? Link prior issues, docs, data, or conversations. -->
@@ -28,8 +28,8 @@ assignees: []
 
 ## Goal / Definition of Done
 <!-- What does "done" look like? Write verifiable acceptance criteria. -->
-- [ ] 
-- [ ] 
+- [ ]
+- [ ]
 
 ## Proposed Solution
 <!-- Your recommended approach. For strategy items, the recommended decision and rationale. -->
@@ -41,10 +41,10 @@ assignees: []
 
 ## Scope
 **In scope:**
-- 
+-
 
 **Out of scope:**
-- 
+-
 
 ## Impact & Risks
 <!-- Delete rows that don't apply -->
@@ -58,9 +58,9 @@ assignees: []
 | Timeline / other teams | |
 
 **Risks & mitigations:**
-- 
+-
 
-## Dependencies
+## Blockers
 <!-- Blocking issues, parts on order, external partners, approvals needed. -->
 - Blocked by: #
 - Blocks: #
@@ -72,10 +72,10 @@ assignees: []
 ## Estimate & Priority
 - **Priority:** P0 (urgent) / P1 (high) / P2 (normal) / P3 (low)
 - **Effort:** XS / S / M / L / XL
-- **Target date / milestone:** 
+- **Target date / milestone:**
 
 ## Open Questions
-- 
+-
 
 ## Additional Notes / Attachments
 <!-- Schematics, datasheets, mockups, market data, meeting notes, etc. -->
